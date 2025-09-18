@@ -1,0 +1,22 @@
+p{
+    position: absolute;
+    bottom: 0;
+    left: 10px;
+    opacity: 50%;
+    color: pink;
+}
+body{
+    height: 100vh;
+}
+img{
+    height: 100%;
+    width: 100%;
+    justify-items: center;
+    align-content: center;
+}
+h2{
+    position: absolute;
+    left: 70vh;
+    top: 50vh;
+    color: pink;
+}
